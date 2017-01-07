@@ -55,17 +55,23 @@ body {
   font-size: 12px;
 }
 
+.supporting .btn  {
+  padding: 8px 20px;
+  font-size: 18px;
+
+}
+
 /*feature*/
 
 .feature {
-  height: 990px;
+  height: 670px;
   background: url("https://68.media.tumblr.com/00235c766b40fe3e8c5c1013b93d7861/tumblr_o4zgboo2wH1so28u7o1_1280.jpg")no-repeat;
   background-size: cover;
 }
 
 .feature .container {
   position: relative;
-  top: 580px;
+  top: 480px;
 }
 
 .feature h2 {
